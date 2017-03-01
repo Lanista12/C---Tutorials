@@ -1,0 +1,4 @@
+﻿  Counting.cpp
+Counting.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Counting.vcxproj -> C:\Users\Lanista\Desktop\Learn\c++\3 For Loop\.\Debug\Counting.exe
+  Counting.vcxproj -> .\Debug/Counting.pdb (Full PDB)
