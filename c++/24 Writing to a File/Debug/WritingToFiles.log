@@ -1,0 +1,4 @@
+﻿  WritingFiles.cpp
+WritingFiles.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  WritingToFiles.vcxproj -> F:\GitHub\C---Tutorials\c++\24 Writing to a File\Debug\WritingToFiles.exe
+  WritingToFiles.vcxproj -> Debug\WritingToFiles.pdb (Full PDB)

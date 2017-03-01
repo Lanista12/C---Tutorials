@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  RandNum.vcxproj -> F:\GitHub\C---Tutorials\c++\18 Random Numbers\.\Debug\RandNum.exe
+  RandNum.vcxproj -> .\Debug/RandNum.pdb (Full PDB)
