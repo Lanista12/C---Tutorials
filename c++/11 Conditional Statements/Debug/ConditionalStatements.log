@@ -1,4 +1,0 @@
-﻿  main.cpp
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  ConditionalStatements.vcxproj -> C:\Users\Lanista\Desktop\Learn\c++\11 Conditional Statements\Debug\ConditionalStatements.exe
-  ConditionalStatements.vcxproj -> Debug\ConditionalStatements.pdb (Full PDB)

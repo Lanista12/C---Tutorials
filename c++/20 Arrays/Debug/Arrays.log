@@ -1,4 +1,0 @@
-﻿  main.cpp
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  Arrays.vcxproj -> F:\GitHub\C---Tutorials\c++\20 Arrays\.\Debug\Arrays.exe
-  Arrays.vcxproj -> .\Debug/Arrays.pdb (Full PDB)

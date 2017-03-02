@@ -1,4 +1,0 @@
-﻿  HelloWorld.cpp
-HelloWorld.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  HelloWorld.vcxproj -> C:\Users\Lanista\Desktop\Learn\c++\First CPP Program\.\Debug\HelloWorld.exe
-  HelloWorld.vcxproj -> .\Debug/HelloWorld.pdb (Full PDB)
